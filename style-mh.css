@@ -1,0 +1,102 @@
+body {
+	background-color: #FFFFF4;
+}
+
+
+ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+
+#header{
+	background-color: #7E3517;
+	color: #FFFFF4;
+	text-align: center;
+}
+
+#container {
+	background-color: #E2A76F;
+	width: 1500px;
+	height: 1300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#content {
+	padding: 20px; 
+}
+
+#int-report {
+	width: 350px;
+	height: 1050px;
+	margin: 10px;
+	float: left;
+	font-size: 20;
+	text-align: center;
+	background-color: #7E3517;
+	color: white;
+}
+
+#main {
+	width: 700px;
+	height: 1050px;
+	margin: 10px;
+	float: left;
+	text-align: center;
+	background-color: #7E3517;
+	color: white;
+}
+
+#case-files {
+	background-color: #7E3517;
+	margin: 10px;
+	width: 350px;
+	height: 1050px;
+	float: right;
+	font-size: 20;
+	text-align: center;
+	color: white;
+	}
+
+#footer {
+	clear: both;
+	padding: 20px;
+	background-color: #7E3517;
+	color: white;
+	text-align: right;
+	font-weight: bold;
+}
+
+#scroll-container {
+  border: 3px solid black;
+  border-radius: 5px;
+  overflow: hidden;
+  background-color: white;
+  font-size: 20;
+}
+
+#case-files a {
+	color: white;
+	text-decoration: none;
+	font-size: 17;
+}
+
+#int-report a {
+	color: white;
+	text-decoration: none;
+	font-size: 17;
+}
+
+p {
+	font-size: 19;
+}
+
+#main a {
+	text-decoration: none;
+	color: white;
+}
+
+b {
+	color: red;
+}
